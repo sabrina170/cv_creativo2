@@ -2,13 +2,13 @@
 
     body {
     
-        background-image: url(../img/fondog.jpg);
+        background-image: url(img/fondog.jpg);
     
     }}
 
 
 body, footer, .hero-body {
-    background-image: url(../img/fondog.jpg);
+    background-image: url(img/fondog.jpg);
   
 }
 

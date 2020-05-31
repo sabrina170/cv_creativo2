@@ -5,7 +5,7 @@ const COMMANDS = {
   habilidades:
     '<span class="code3">Languages:</span><span class="code2"> Python, HTML, CSS, JavaScript,Java,PHP</span><br><span class="code3">Tecnologias:</span><span class="code2"> Git, SQL</span><br><span class="code3">Frameworks:</span><span class="code2"> React.js, Vue.js, Django</span>',
   educacion:
-    '<span class="code">Instituto, Tecsup</span><br>Diseño de Software e Integración de Sistemas<br><span class="code">Instituto,Británico</span><br>Inglés',
+    '<span class="code3">Instituto: Tecsup</span><br>Diseño de Software e Integración de Sistemas<br><span class="code3">Instituto: Británico</span><br>Inglés',
   
   experiencia: '<span class="code3"> ► Desarrolladora web en el Área de TI </span></br><span class="code2">IProyecto Educativo Pilares /Surco</span></br><span class="code3"> ► Pasante del Área de Informática</span><br> <span class="code2">Radio Observatorio de Jicamarca-IGP /Lurigancho</span>',                      
   
